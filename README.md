@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Muzammil Ali 👋
 
-<!--
-**muzammilali17/muzammilali17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Physics Final Year @ GCUH | 🔐 Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+## 🛡️ About Me
+- Passionate about Ethical Hacking & Penetration Testing
+- Hands-on practice on TryHackMe & Hack The Box
+- Completed CS50 Harvard Cybersecurity & Google Cybersecurity
+- Physics background = strong analytical thinking 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- 🏅 CS50 Harvard — Introduction to Cybersecurity (2026)
+- 🏅 Google — Foundations of Cybersecurity (2025)
+- 🏅 Google — Play It Safe: Manage Security Risks (2025)
+- 🏅 CyberSavvy: Linux & Essential Cybersecurity (2025)
+
+## 🔧 Skills & Tools
+`Linux` `Bash` `Network Security` `Ethical Hacking`
+`Penetration Testing` `TryHackMe` `Hack The Box`
+`Security Risk Management` `Wireshark` `Nmap`
+
+## 🌐 Connect with Me
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/muzammilali17)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:muzammilali.cyber@gmail.com)
